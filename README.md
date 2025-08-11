@@ -1,4 +1,4 @@
-# excel-project
+# excel_project
 Objective:
 
 A store wants to create an annual sales report to understand their customers and grow more sales in 2023 .
